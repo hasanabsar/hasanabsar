@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://images.search.yahoo.com/search/images;_ylt=AwrFPU9JgLRnTD8BwTZXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=animation+coding+pic&fr2=piv-web&type=G210US91215G91867Me4c1392cba7577f630458e5686f5bbf8&fr=mcafee#id=35&iurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F55389276%2F140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif&action=click"  />
 
 ###
 
