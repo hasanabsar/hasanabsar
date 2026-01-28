@@ -2,7 +2,6 @@
 
 I design clean, responsive, and user-friendly websites using modern web technologies.  
 
-📍 Pakistan  
 💻 Frontend & Backend 
 🚀 Always Learning  
 
