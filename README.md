@@ -42,10 +42,4 @@ I design clean, responsive, and user-friendly websites using modern web technolo
 
 ---
 
-## 📫 Contact  
-- GitHub: https://github.com/HassanAbsar  
-- Email: your@email.com  
-
----
-
 ⭐ *Thanks for visiting my GitHub profile*
