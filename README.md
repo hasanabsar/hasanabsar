@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hassan Absar and I'm a Backend Developer, From Pakistan  
+# Hi 👋, I'm Hassan Absar and I'm a Full-Stack Developer, From Pakistan  
 
 I design clean, responsive, and user-friendly websites using modern web technologies.  
 
